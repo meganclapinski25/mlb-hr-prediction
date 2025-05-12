@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional: keep raw data out of GitHub)
+data/*.csv
+data/README.md  # keep a placeholder or description
+
+# Python virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# VSCode config
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
