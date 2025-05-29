@@ -38,10 +38,10 @@
 ## Visual Highlights
 
 ### 🎯 Model Performance: Confusion Matrix
-![Confusion Matrix] (images/confusion.png)
+![Confusion Matrix](images/confusion.png)
 
 ### 📈 Key Swing Metrics Correlated with Home Runs
-![Feature Correlation] (images/correlation.png)
+![Feature Correlation](images/correlation.png)
 
 ### 🔍 Model Interpretation: Feature Weights
-![Feature Weights] (images/weights.png)
+![Feature Weights](images/weights.png)
